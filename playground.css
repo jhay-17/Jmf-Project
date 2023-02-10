@@ -1,0 +1,75 @@
+.fli{
+    list-style: none;
+    
+}
+
+#mail div{
+    display: flex;
+    text-align: center;
+}
+
+#ful{
+    display: flex;
+    background-color: rgb(253 255 252);
+    gap: 20px;
+}
+
+#footer{
+    background-color: rgb(253 255 252);
+}
+
+img{
+    background-color: rgb(111 29 27);
+}
+
+#suam{
+    color: rgb(0, 0, 0);
+}
+
+#item-section{
+    background-color: rgb(58, 237, 237);
+}
+
+#items ul{
+    align-items: center;
+}
+
+.items{
+    list-style: none;
+    text-align: center;
+    padding-bottom: 20px;
+    color: blueviolet;
+}
+
+#shirt-section ul{
+    list-style-position: initial;
+    list-style: none;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+#shirt-section ul li{
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#shirt-section p{
+    font-size: 20px;
+    margin-top: 5px;
+}
+#shirt-section img{
+    height: 10cm;
+}
+
+#send{
+    background-color: rgb(1 22 39);
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 7px 10px;
+}
+
+.trial{
+    display: flex;
+    gap: 10px;
+}

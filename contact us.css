@@ -1,0 +1,12 @@
+main{
+    padding: 30px 30px;
+}
+
+#contact-section ul{
+    list-style: none;
+    text-decoration: none;
+}
+#contact-section ul li{
+    text-decoration: none;
+    padding-bottom: 20px;
+}
