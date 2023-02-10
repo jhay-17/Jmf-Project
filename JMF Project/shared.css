@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(46 196 182);
+    padding: 10px 50px; 
+    box-sizing: border-box;
+    align-items: center;
+    margin-bottom: 7px;
+    font-size: 18px;
+    font-family: 'Bitter', serif;
+
+}
+
+header ul{
+    display: flex;
+    padding: 0px 50px;
+    list-style: none;
+    gap: 20px;
+}
+
+#JMF{
+    text-decoration: none;
+    font-size: 50px;
+    color: rgb(1 22 39);
+    font-family: 'Rubik Marker Hatch', cursive;
+}
+#JMF:hover{
+    background-color: rgb(255 159 28);
+    border-radius: 15px;
+}
+
+.hli{
+    text-decoration: none;
+    color: rgb(1 22 39);
+}
+.hli:hover{
+    background-color: rgb(255 159 28);
+    border-radius: 5px;
+    border-color: rgb(1 22 39);
+}
+
+footer{
+    background-color: rgb(46 196 182);
+    margin-top: 7px;
+    font-size: 22px;
+    padding: 15px 28px 40px;
+    display: flex;
+    gap: 90px;
+    font-family: 'EB Garamond', serif;
+}
+
+footer ul{
+    list-style: none;
+}
+
+footer li{
+    margin-right: 25px;
+}
+
+#email div{
+    color: rgb(1 22 39);
+    display: flex;
+}
+
+#home{
+    text-decoration: none;
+}
+
+main{
+    background-color: rgb(255 159 28);
+    padding: 10px 30px;
+    color: rgb(1 22 39);
+    font-family: 'EB Garamond', serif;
+}
+
+#title{
+    text-align: center;
+    padding-bottom: 7px;
+}
+p{
+    font-size: 22px;
+    color: rgb(1 22 39);
+}
+
+h1{
+    font-size: 28px;
+    color: rgb(1 22 39);
+    font-family: 'Abril Fatface', cursive;
+}
+ h2{
+    font-size: 28px;
+    color: rgb(1 22 39);
+    padding-bottom: 7px;
+    font-family: 'Abril Fatface', cursive;
+ }
+
+#sec-1{
+    padding: 15px 0px;
+}
+#sec-1 h2{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+#goods-section ul{
+    list-style: none;
+}
+#goods-section ul li{
+    font-size: 22px;
+    padding-bottom: 10px;
+}
+
+#sec-2{
+    padding: 15px 0px;
+}
+#sec-3{
+    padding: 15px 0px;
+}
+#os-section{
+    padding: 15px 0px;
+}
+
+#send{
+    padding: 0px 10px;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+button{
+    margin-left: 25%;
+    height: 0.8cm;
+    background-color: rgb(1 22 39);
+    border-radius: 5px;
+}
+#socials{
+    display: flex;
+    padding-top: 20px;
+}
+#one{
+    color: rgb(131,150,153);
+}
+
+#who-we-are h2{
+    color: rgb(1 22 70);
+}
+
+#who-we-are p{
+   color: rgb(1 22 70)
+}
+

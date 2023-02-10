@@ -1,0 +1,142 @@
+#main-section ul{
+    justify-content: space-around;
+    list-style-position: initial;
+    text-align: center;
+    list-style: none;
+    padding: 20px 0px;
+    font-family: 'Unbounded', cursive;
+}
+
+#main-section ul li{
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Unbounded', cursive;
+}
+main{
+    font-size: 30px;
+}
+
+#shirts-section ul{
+    list-style-position: initial;
+    list-style: none;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+#shirts-section ul li{
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#shirts-section p{
+    font-size: 20px;
+    margin-top: 5px;
+}
+#shirts-section img{
+    height: 10cm;
+}
+
+#belts-section ul{
+    list-style-position: initial;
+    list-style: none;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+#belts-section ul li{
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#belts-section p{
+    font-size: 20px;
+    margin-top: 5px;
+}
+#belts-section img{
+    height: 10cm;
+}
+
+#jeans-section ul{
+    list-style-position: initial;
+    list-style: none;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+#jeans-section ul li{
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#jeans-section p{
+    font-size: 20px;
+    margin-top: 5px;
+}
+#jeans-section img{
+    height: 10cm;
+}
+
+#cs-section ul{
+    list-style-position: initial;
+    list-style: none;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+#cs-section ul li{
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#cs-section p{
+    font-size: 20px;
+    margin-top: 5px;
+}
+#cs-section img{
+    height: 10cm;
+}
+
+#nike-section ul{
+    list-style-position: initial;
+    list-style: none;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+#nike-section ul li{
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#nike-section p{
+    font-size: 20px;
+    margin-top: 5px;
+}
+#nike-section img{
+    height: 10cm;
+}
+
+#adidas-section ul{
+    list-style-position: initial;
+    list-style: none;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+#adidas-section ul li{
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#adidas-section p{
+    font-size: 20px;
+    margin-top: 5px;
+}
+#adidas-section img{
+    height: 10cm;
+}
+
+#btg:hover{
+    color: blue;
+}
